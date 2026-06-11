@@ -14,6 +14,7 @@ A curated list of awesome Hong Kong webmap resources to foster ideas and drive g
 * [PRAISE-HK](https://praise.hkust.edu.hk/) - Personalized Real-Time Air Quality Informatics System for Exposure – Hong Kong, developed by the institute for the Environment, HKUST
 * [Live Hong Kong Air Quality](https://www.embee.hk/a/air-quality/hong-kong/index) - Real-time air quality monitoring service by Embee Limited
 * [Mosquito Risk Map](https://geoaimq.ln.edu.hk/en/mosquito-risk-map) - Locations with the greatest risk of mosquito abundance
+* [Tree Register](https://treeregister.greening.gov.hk/map/treeindex.aspx) - Tree Register by Development Bureau
 
 ## Development
 * [Town Planning Board Statutory Planning Portal](https://www.ozp.tpb.gov.hk/?lang=en) - Latest statutory plans and planning information
@@ -24,6 +25,7 @@ A curated list of awesome Hong Kong webmap resources to foster ideas and drive g
 ## Land
 * [District-Based Spatial Information Dashboard](https://usecases.csdi.geodata.gov.hk/dbsid_en.html?lang=en&fontSize=1) - Feature simple interactive data visualization tools regarding district-based analytics
 * [How old are private buildings in Hong Kong?](https://public.tableau.com/shared/DX8N83HMJ?:display_count=n&:origin=viz_share_link) - A tableau dashboard highlights the ages of private buildings in Hong Kong
+* [Open3Dhk](https://3d.map.gov.hk/)
 
 ## Climate and Weather
 * [All-in-One Disaster Prepareddness Map](https://gallery.csdi.gov.hk/gallery/detail?slug=hkrc-all-in-one-disaster-preparedness-map) - Integrates real-time weather data with key emergency related public service information
