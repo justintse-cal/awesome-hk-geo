@@ -15,6 +15,7 @@ A curated list of awesome Hong Kong webmap resources to foster ideas and drive g
 * [Live Hong Kong Air Quality](https://www.embee.hk/a/air-quality/hong-kong/index) - Real-time air quality monitoring service by Embee Limited
 * [Mosquito Risk Map](https://geoaimq.ln.edu.hk/en/mosquito-risk-map) - Locations with the greatest risk of mosquito abundance
 * [Tree Register](https://treeregister.greening.gov.hk/map/treeindex.aspx) - Tree Register by Development Bureau
+* [WAVINCITY Sound Map](https://wavincity.com/sound-map/) - High-quality audio recording recorded in different Hong Kong places
 
 ## Development
 * [Town Planning Board Statutory Planning Portal](https://www.ozp.tpb.gov.hk/?lang=en) - Latest statutory plans and planning information
@@ -41,6 +42,7 @@ A curated list of awesome Hong Kong webmap resources to foster ideas and drive g
 * [Hong Kong Memory](https://www.hkmemory.hk/en/interactive_map.html) - A multi-media website dedicated to providing open-access digitized materials on Hong Kong's history, cultural and heritage
 * [Battle of Hong Kong](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/map.php) - Spatial history project "Hong Kong 1941"
 * [Hong Kong Music Atlas](https://qianhengzhang.github.io/HongKongMusicAtlas/) - An interactive web map that explores the cultural geographies connected through Cantonese pop music
+* [Ways of Remembering Hong Kong](https://waysofrememberinghongkong.hkaa.co/)
 
 ## Recreation
 * [Enjoy Hiking](https://www.hiking.gov.hk/) - The Enjoy Hiking website provide suggested routes and key point of interests to faciliate safe and enjoyable hikes.
