@@ -43,6 +43,7 @@ A curated list of awesome Hong Kong webmap resources to foster ideas and drive g
 * [Battle of Hong Kong](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/map.php) - Spatial history project "Hong Kong 1941"
 * [Hong Kong Music Atlas](https://qianhengzhang.github.io/HongKongMusicAtlas/) - An interactive web map that explores the cultural geographies connected through Cantonese pop music
 * [Ways of Remembering Hong Kong](https://waysofrememberinghongkong.hkaa.co/)
+* [My Neon City](https://www.neonsigns.hk/?lang=en) - Its Neon Map shows the locations of neon sign in Hong Kong 
 
 ## Recreation
 * [Enjoy Hiking](https://www.hiking.gov.hk/) - The Enjoy Hiking website provide suggested routes and key point of interests to faciliate safe and enjoyable hikes.
