@@ -29,7 +29,7 @@
 * [How old are private buildings in Hong Kong?](https://public.tableau.com/shared/DX8N83HMJ?:display_count=n&:origin=viz_share_link) - A tableau dashboard highlighting the ages of private buildings in Hong Kong
 * [Open3Dhk](https://3d.map.gov.hk/) - 3D mapping application provided by Lands Department
 * [HKUST Digital Twin](https://digitaltwin.hkust.edu.hk/dt_webapp_integrated/index.html) - An integrated platform by centralizing data from building information modeling (BIM), geographic information system (GIS), and a variety of internet of things (IoT) systems
-* GeoInfo Map(https://www.map.gov.hk/gm/)
+* [GeoInfo Map](https://www.map.gov.hk/gm/) - Information of geographical locations, the built and natural environments, and public facilities in Hong Kong
 
 ### Climate and Weather
 * [All-in-One Disaster Prepareddness Map](https://gallery.csdi.gov.hk/gallery/detail?slug=hkrc-all-in-one-disaster-preparedness-map) - Integrates real-time weather data with key emergency related public service information
@@ -54,7 +54,7 @@
 * [Tree Register](https://treeregister.greening.gov.hk/map/treeindex.aspx) - Tree Register provided by Development Bureau
 * [WAVINCITY Sound Map](https://wavincity.com/sound-map/) - High-quality audio recordings across Hong Kong
 * [Jockey Club Water Initiative on Sustainability and Engagement (JC-WISE)](https://www.jcwise.hk/gis/?lang=en) - Provides open-access GIS-based database on Hong Kong’s major rivers and associate river basins
-* [Hong Kong Biodiversity Information Hub](https://bih.gov.hk/en/bgis/index.html) - Hong Kong Biodiversity Hub
+* [Hong Kong Biodiversity Information Hub](https://bih.gov.hk/en/bgis/index.html) - Biodiversity of Hong Kong, developed under the Hong Kong Biodiversity Strategy and Action Plan (BSAP)
 
 ### Transportation & Access
 * [HKeMobility](https://www.hkemobility.gov.hk/) - An all-in-one traffic and transport website developed by the Transport Department
@@ -91,7 +91,7 @@
 * [Traffic data from Traffic Data Analytics System](https://data.gov.hk/en-data/dataset/hk-td-tis_28-traffic-data-tdas/resource/14ca29a1-a872-4a94-8cc7-7efac9d036c1)
 
 ## Data Hub
-> Text
+> Resources for getting maps, GIS and spatial data
 * [Common Spatial Data Infrastructure | Development Bureau](https://portal.csdi.gov.hk/csdi-webpage/)
 * [DATA.GOV.HK | HKSAR Government](https://data.gov.hk/)
 * [Open Geospatial Data | Esri China (HK)](https://opendata.esrichina.hk/)
@@ -101,4 +101,6 @@
 ## Organization
 > Text
 * [Geospatial Lab | Development Bureau](https://csdigeolab.gov.hk/en/)
+* [Geospatial.HK](https://geospatial.hk/)
 * [Hong Kong Geographic Information System Association](https://www.hkgisa.org.hk/home)
+* [Hong Kong Geographical Association](http://www.hkga.org/site/)
