@@ -46,6 +46,7 @@
 * [Hong Kong Ghost Signs Map](https://hkghostsigns.com/) - Fading, defunct signage across Hong Kong
 * [Hong Kong Coastline](https://oldhkphoto.com/coast/Map.html) - History of land reclamation from the 1840s to the present
 * [Hong Kong Pop Culture Map](https://digital.lib.hkbu.edu.hk/culture-map/index.php) - Film locations, music venues and cultural hotspots
+* [HK Street Chronicle](https://street.monsoonclub.co/en) - Naming years for thousands of streets across the city 
 
 ### Environment
 * [PRAISE-HK](https://praise-web.ust.hk/hk-exp/#/dashboard) - Personalized Real-Time Air Quality Informatics System for Exposure – Hong Kong, developed by the institute for the Environment, HKUST
