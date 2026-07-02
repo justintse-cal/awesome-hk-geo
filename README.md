@@ -10,12 +10,15 @@
   - [Culture, History & Heritage](#culture-history--heritage)
   - [Recreation](#recreation)
 - [API](#api)
+  - [Weather](#weather)
+  - [Transportation](#transportation)
+  - [Other](#other)
 - [Data Hub](#data-hub)
-- [Organization](#organization)
+- [Organization](#organizations)
 
 
 ## Web App
-> Geospatial web applications and prototypes
+> Official and community geospatial web applications and prototypes
 
 ### Cities & Urban Planning
 * [Town Planning Board Statutory Planning Portal](https://www.ozp.tpb.gov.hk/?lang=en) - Latest statutory plans and planning information
@@ -63,6 +66,7 @@
 * [Cycling in Hong Kong](https://www.landsd.gov.hk/storymap/ehkg2025/en/index.html) - Promoting cycling and cycling safety through the use of spatial data and statistics
 * [Hong Kong Access Map](https://access.hk/?ref=geospatial.hk) - Wheelchair accessibility hotspots
 * [Taxi Fare Calculator](https://taxifare.hk/?ref=geospatial.hk) - Calculate taxi fare from point A to B
+* [HK Tramways](https://www.hktramways.com/en/interactive-map/) - Locate tram stops
 
 ### Recreation
 * [Enjoy Hiking](https://www.hiking.gov.hk/) - Suggested routes and key point of interests to faciliate safe and enjoyable hikes
@@ -72,14 +76,17 @@
 > APIs related to geospatial data and mapping
 
 ### Weather
-[Current Weather Report](https://data.gov.hk/en-data/dataset/hk-hko-rss-current-weather-report)
+* [Current Weather Report](https://data.gov.hk/en-data/dataset/hk-hko-rss-current-weather-report) - HKO current weather report
 
 ### Transportation
-* [Real-time MTR Train Information](https://data.gov.hk/en-data/dataset/mtr-data2-nexttrain-data/resource/103472ed-01be-4dda-92c6-30530dee022f)
-* [Traffic Snapshot Images](https://data.gov.hk/en-data/dataset/hk-td-tis_2-traffic-snapshot-images)
+* [Real-time MTR Train Information](https://data.gov.hk/en-data/dataset/mtr-data2-nexttrain-data/resource/103472ed-01be-4dda-92c6-30530dee022f) MTR arrival time information
+* [Traffic Snapshot Images](https://data.gov.hk/en-data/dataset/hk-td-tis_2-traffic-snapshot-images) - Traffic snapshot images captured by CCTV
+* [Traffic data from Traffic Data Analytics System](https://data.gov.hk/en-data/dataset/hk-td-tis_28-traffic-data-tdas/resource/14ca29a1-a872-4a94-8cc7-7efac9d036c1) - Average traffic speed and total journey time of driving route
+* [Bus Estimated Arrival Time](https://data.gov.hk/en-data/dataset/hk-dpo-datagovhk1-transport-bus-route-list-and-eta-spcific-bus-stop) - Estimated arrival time of a specific bus stop for Citybus and New Lantao Bus
+
 
 ### Other
-* [Search Nearby](https://portal.csdi.gov.hk/csdi-webpage/apidoc/SearchNearbyAPI)
+* [Search Nearby](https://portal.csdi.gov.hk/csdi-webpage/apidoc/SearchNearbyAPI) - Find the facilities located within 1 km of the search location
 * [Address Lookup Service](https://data.gov.hk/en-data/dataset/hk-dpo-als_01-als/resource/1a89d30f-b106-4ac2-b103-ad1bfdd5cc82) - Look up address records using simple address element information
 * [Identify](https://portal.csdi.gov.hk/csdi-webpage/apidoc/IdentifyAPI) - Identify the information of a facility at a selected geographic location
 * [Lot Index](https://portal.csdi.gov.hk/csdi-webpage/apidoc/LotIndexAPI) - Retreive private lots, Government Land Allocations (GLAs) and Short-Term Tenancies (STTS)
@@ -89,18 +96,17 @@
 * [Streetscape 360](https://portal.csdi.gov.hk/csdi-webpage/apidoc/streetscape-360-api) - Retrieve panoramas images
 * [3D Spatial Data](https://portal.csdi.gov.hk/csdi-webpage/apidoc/3d-spatial-data-api) - Retrieve building models and infrastructure models
 * [3D Visualization Map](https://portal.csdi.gov.hk/csdi-webpage/apidoc/3d-visualisation-map-api) - Retrieve 3D Visualisation Map (Tile-based Models)
-* [Traffic data from Traffic Data Analytics System](https://data.gov.hk/en-data/dataset/hk-td-tis_28-traffic-data-tdas/resource/14ca29a1-a872-4a94-8cc7-7efac9d036c1)
 
 ## Data Hub
-> Resources for getting maps, GIS and spatial data
+> Local resources for getting maps, GIS and spatial data
 * [Common Spatial Data Infrastructure | Development Bureau](https://portal.csdi.gov.hk/csdi-webpage/)
 * [DATA.GOV.HK | HKSAR Government](https://data.gov.hk/)
 * [Open Geospatial Data | Esri China (HK)](https://opendata.esrichina.hk/)
 * [Spatial Data Portal | CEDD](https://sdportal.cedd.gov.hk/#/en)
 * [Hong Kong Map Service](https://www.hkmapservice.gov.hk/OneStopSystem/home)
 
-## Organization
-> Text
+## Organizations
+> Releveant local organizations
 * [Geospatial Lab | Development Bureau](https://csdigeolab.gov.hk/en/)
 * [Geospatial.HK](https://geospatial.hk/)
 * [Hong Kong Geographic Information System Association](https://www.hkgisa.org.hk/home)
