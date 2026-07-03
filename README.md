@@ -18,7 +18,7 @@
 
 
 ## Web App
-> Official and community geospatial web applications and prototypes
+> Local geospatial web applications and prototypes
 
 ### Cities & Urban Planning
 * [Town Planning Board Statutory Planning Portal](https://www.ozp.tpb.gov.hk/?lang=en) - Latest statutory plans and planning information
@@ -73,7 +73,7 @@
 * [Geopark Attractions](https://www.geopark.gov.hk/en/discover/attractions/) - Attractions of Geopark in Hong Kong
 
 ## API
-> APIs related to geospatial data and mapping
+> Local APIs related to geospatial data and mapping
 
 ### Weather
 * [Current Weather Report](https://data.gov.hk/en-data/dataset/hk-hko-rss-current-weather-report) - HKO current weather report
@@ -106,7 +106,7 @@
 * [Hong Kong Map Service](https://www.hkmapservice.gov.hk/OneStopSystem/home)
 
 ## Organizations
-> Releveant local organizations
+> Relevant local organizations
 * [Geospatial Lab | Development Bureau](https://csdigeolab.gov.hk/en/)
 * [Geospatial.HK](https://geospatial.hk/)
 * [Hong Kong Geographic Information System Association](https://www.hkgisa.org.hk/home)
