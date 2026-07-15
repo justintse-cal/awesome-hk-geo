@@ -37,6 +37,7 @@
 ### Climate and Weather
 * [All-in-One Disaster Prepareddness Map](https://gallery.csdi.gov.hk/gallery/detail?slug=hkrc-all-in-one-disaster-preparedness-map) - Integrates real-time weather data with key emergency related public service information
 * [Real time Tide](https://tide1.hydro.gov.hk/hotide/index.html) - Real-time and predicted tide levels
+* [Hong Kong Regional Weather Information Portal](https://www.hko.gov.hk/en/wxinfo/awsgis/regional_portal.html) - HKO real-time and forecasted meteorological conditions across the region
 
 ### Culture, History & Heritage
 * [Geographical Information System on Hong Kong Heritage](https://gish.amo.gov.hk/internet/index.html?dm-all=1) - GIS database system for Hong Kong's heritage
