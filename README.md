@@ -33,6 +33,7 @@
 * [Open3Dhk](https://3d.map.gov.hk/) - 3D mapping application provided by Lands Department
 * [HKUST Digital Twin](https://digitaltwin.hkust.edu.hk/dt_webapp_integrated/index.html) - An integrated platform by centralizing data from building information modeling (BIM), geographic information system (GIS), and a variety of internet of things (IoT) systems
 * [GeoInfo Map](https://www.map.gov.hk/gm/) - Information of geographical locations, the built and natural environments, and public facilities in Hong Kong
+* [Walkin'HK](https://usecases.csdi.geodata.gov.hk/walkinhk/?lang=en&frame=tools) - Analyse your walkable Zone and nearby facilities with 3D Spatial Data
 
 ### Climate and Weather
 * [All-in-One Disaster Prepareddness Map](https://gallery.csdi.gov.hk/gallery/detail?slug=hkrc-all-in-one-disaster-preparedness-map) - Integrates real-time weather data with key emergency related public service information
