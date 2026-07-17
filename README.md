@@ -23,6 +23,7 @@
 ### Cities & Urban Planning
 * [Town Planning Board Statutory Planning Portal](https://www.ozp.tpb.gov.hk/?lang=en) - Latest statutory plans and planning information
 * [CEDD Major Project](https://www.cedd.gov.hk/eng/our-projects/major-projects/index.html) - Map view of major projects on the Civil Engineering and Development Department's website
+* [Land Utilization in Hong Kong](https://www.pland.gov.hk/pland_en/info_serv/open_data/landu/) -Broad-brush presentation of distribution of land uses in Hong Kong
 * [Centemap](http://hk.centamap.com/gc/home.aspx?lg=en) - A comprehensive map guide of Hong Kong developed by Centamap Company Limited
 * [Zone In](https://khwong12.github.io/OZP_buffer_stat/) - Exploring Hong Kong land use zonings
 * [Well Being Map](https://wellbeingmap.org/?ref=geospatial.hk) - Finding the most livable areas tailored to their needs
