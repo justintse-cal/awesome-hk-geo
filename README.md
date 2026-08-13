@@ -91,7 +91,7 @@
 
 ### Other
 * [Search Nearby](https://portal.csdi.gov.hk/csdi-webpage/apidoc/SearchNearbyAPI) - Find the facilities located within 1 km of the search location
-* [Address Lookup Service](https://data.gov.hk/en-data/dataset/hk-dpo-als_01-als/resource/1a89d30f-b106-4ac2-b103-ad1bfdd5cc82) - Look up address records using simple address element information
+* [Address Lookup Service](https://data.gov.hk/en-data/dataset/hk-dpo-als_01-als) - Look up address records using simple address element information
 * [Identify](https://portal.csdi.gov.hk/csdi-webpage/apidoc/IdentifyAPI) - Identify the information of a facility at a selected geographic location
 * [Lot Index](https://portal.csdi.gov.hk/csdi-webpage/apidoc/LotIndexAPI) - Retreive private lots, Government Land Allocations (GLAs) and Short-Term Tenancies (STTS)
 * [Vector Map Label](https://portal.csdi.gov.hk/csdi-webpage/apidoc/VectorMapLabelAPI) - Retrieve vector map tiles with place name labels
