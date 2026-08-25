@@ -63,6 +63,7 @@
 * [WAVINCITY Sound Map](https://wavincity.com/sound-map/) - High-quality audio recordings across Hong Kong
 * [Jockey Club Water Initiative on Sustainability and Engagement (JC-WISE)](https://www.jcwise.hk/gis/?lang=en) - Provides open-access GIS-based database on Hong Kong’s major rivers and associate river basins
 * [Hong Kong Biodiversity Information Hub](https://bih.gov.hk/en/bgis/index.html) - Biodiversity of Hong Kong, developed under the Hong Kong Biodiversity Strategy and Action Plan (BSAP)
+* [Hong Kong Environmental Database (HKED)](https://hked.epd.gov.hk/map/tc/Map) - Provides an effective platform to help collect, store, analyse and disseminate the vast amount of data involved in compiling EIA studies
 
 ### Transportation & Access
 * [HKeMobility](https://www.hkemobility.gov.hk/) - An all-in-one traffic and transport website developed by the Transport Department
