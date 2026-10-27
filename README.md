@@ -54,6 +54,7 @@
 * [Hong Kong Pop Culture Map](https://digital.lib.hkbu.edu.hk/culture-map/index.php) - Film locations, music venues and cultural hotspots
 * [HK Street Chronicle](https://street.monsoonclub.co/en) - Naming years for thousands of streets across the city
 * [mappinghk.org](https://www.mappinghk.org/map) - A community-based mapping of Hong Kong's culture and history
+* [hkmaps.hk](https://hkmaps.hk/) - Discovery and display of historic maps of Hong Kong
 
 ### Environment
 * [PRAISE-HK](https://praise-web.ust.hk/hk-exp/#/dashboard) - Personalized Real-Time Air Quality Informatics System for Exposure – Hong Kong, developed by the institute for the Environment, HKUST
@@ -72,6 +73,7 @@
 * [Hong Kong Access Map](https://access.hk/?ref=geospatial.hk) - Wheelchair accessibility hotspots
 * [Taxi Fare Calculator](https://taxifare.hk/?ref=geospatial.hk) - Calculate taxi fare from point A to B
 * [HK Tramways](https://www.hktramways.com/en/interactive-map/) - Locate tram stops
+* [HK Traffic Intelligence](https://hktraffic.keith-li.workers.dev/) - A live Hong Kong smart-city dashboard on public APIs
 
 ### Recreation
 * [Enjoy Hiking](https://www.hiking.gov.hk/) - Suggested routes and key point of interests to faciliate safe and enjoyable hikes
